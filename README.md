@@ -1,2 +1,4 @@
 # patched-romshackz
-A bunch of ROM Hacks that require patching, you can't use them
+A bunch of ROM Hacks that require patching. 
+These include: 
+SM64DS Never Was
